@@ -2,7 +2,7 @@
 - 👀 Je suis disponible pour une alternance à partir de juillet 2021
 - 🌱 Je suis actuellement en Bachelor +2 à l'Education Gaming School
 - 💞️ Disponible également pour collaborer avec vous sur vos projets personnels (sites vitrines, e-commerces, applications)
-- 📫 Mon likedin : https://www.linkedin.com/in/jeremie-tergemina-a67798199/
+- 📫 Mon linkedin : https://www.linkedin.com/in/jeremie-tergemina-a67798199/
 
 <!---
 PS : Je suis passionné par le backend et plus précisément par le Php et tous ses frameworks, mais aussi passionné par le Javascript 💞️ ! 
